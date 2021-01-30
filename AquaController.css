@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(xbox-assets/base.svgz);
+    background: url(BaseAqua.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -10,7 +10,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(xbox-assets/quadrant.svgz);
+    background: url(QuadrantAqua.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -28,7 +28,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy.svgz);
+    background: url(PadAqua.png);
     width: 48px;
     height: 48px;
 }
@@ -74,7 +74,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stick.svgz);
+    background: url(StickAqua.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
